@@ -320,10 +320,10 @@ button:active {
   border: 1px solid var(--factorio-primary);
   padding: 5px;
   border-radius: 2px;
-  position: absolute;
+  position: left;
   z-index: 1;
   bottom: 125%;
-  left: 50%;
+  left: 100%;
   margin-left: -60px;
   opacity: 0;
   transition: opacity 0.3s;
